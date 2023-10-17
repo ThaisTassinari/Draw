@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T21:59:01.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hUeRGJ-EZafU-rKuOsso" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T22:43:11.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3kQZkWHM9UOJ6wnycuRD" version="22.0.4" type="github">
   <diagram name="Page-1" id="CPNXC50euRKfNB6obnDd">
-    <mxGraphModel dx="3398" dy="3092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3454" dy="3120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1340,7 +1340,7 @@
           <mxGeometry x="68" y="1409.24" width="418" height="116" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-241" value="Sélectionner la voiture" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="686.4999999999999" y="1649" width="587" height="859" as="geometry" />
+          <mxGeometry x="665.4999999999999" y="1219" width="587" height="859" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-242" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-241">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1475,7 +1475,7 @@
           <mxGeometry x="137.5" y="4" width="228" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-344" value="Rechercher voiture" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="1.25" y="742" width="587" height="381" as="geometry" />
+          <mxGeometry x="-47" y="2512" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-345" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-344">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1514,10 +1514,10 @@
           <mxGeometry x="26" y="169" width="503" height="102" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-354" value="Une liste de voitures base sur les mots clés" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-353">
-          <mxGeometry x="127" y="60" width="249" height="26" as="geometry" />
+          <mxGeometry x="147.5" y="59" width="249" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8WSiahmC3nwINbHCqKpn-355" value="Utiliser la barre de recherche pour trouver une groupe de voitures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-353">
-          <mxGeometry x="89" y="4" width="366" height="26" as="geometry" />
+        <mxCell id="8WSiahmC3nwINbHCqKpn-355" value="Chercher la voiture dans la barre de recherche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-353">
+          <mxGeometry x="139" y="4" width="266" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-356" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8WSiahmC3nwINbHCqKpn-344" source="8WSiahmC3nwINbHCqKpn-346" target="8WSiahmC3nwINbHCqKpn-357">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1529,7 +1529,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-358" value="Filtrer voiture" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="1.25" y="1172" width="587" height="381" as="geometry" />
+          <mxGeometry x="608.25" y="2512" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-359" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-358">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1567,11 +1567,11 @@
         <mxCell id="8WSiahmC3nwINbHCqKpn-367" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=27;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-358">
           <mxGeometry x="26" y="169" width="503" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="8WSiahmC3nwINbHCqKpn-368" value="Une liste de voitures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-367">
-          <mxGeometry x="188" y="61" width="127" height="26" as="geometry" />
+        <mxCell id="8WSiahmC3nwINbHCqKpn-368" value="Une liste de voitures base sur la filtrage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-367">
+          <mxGeometry x="138" y="61" width="228" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8WSiahmC3nwINbHCqKpn-369" value="Utiliser les options de filtrage pour trouver une groupe de voitures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-367">
-          <mxGeometry x="68.5" y="4" width="366" height="26" as="geometry" />
+        <mxCell id="8WSiahmC3nwINbHCqKpn-369" value="Chercher la voiture dans la filtrage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-367">
+          <mxGeometry x="151.5" y="4" width="201" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-370" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8WSiahmC3nwINbHCqKpn-358" source="8WSiahmC3nwINbHCqKpn-360" target="8WSiahmC3nwINbHCqKpn-371">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1583,7 +1583,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-372" value="Calculatrice d&#39;interet" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="3.75" y="1606" width="587" height="381" as="geometry" />
+          <mxGeometry x="-47" y="742" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-373" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-372">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1637,7 +1637,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-386" value="Contactez nous" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="1.25" y="2053" width="587" height="381" as="geometry" />
+          <mxGeometry x="-49.5" y="1189" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-387" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-386">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1691,7 +1691,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-400" value="Services" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="1.25" y="2479" width="587" height="381" as="geometry" />
+          <mxGeometry x="-49.5" y="1615" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-401" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-400">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1745,7 +1745,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-414" value="Informations sur la voiture" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="683" y="742" width="587" height="381" as="geometry" />
+          <mxGeometry x="-53.75" y="2055" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-415" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-414">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
@@ -1799,7 +1799,7 @@
           <mxGeometry x="79" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-428" value="Lien Carfax" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="683" y="1172" width="587" height="381" as="geometry" />
+          <mxGeometry x="662" y="742" width="587" height="381" as="geometry" />
         </mxCell>
         <mxCell id="8WSiahmC3nwINbHCqKpn-429" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="8WSiahmC3nwINbHCqKpn-428">
           <mxGeometry x="79" y="46" width="20" height="45" as="geometry" />
